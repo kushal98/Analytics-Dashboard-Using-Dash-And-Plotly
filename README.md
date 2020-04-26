@@ -3,9 +3,8 @@ This project was developed to use the dash and plotly library to build an anlyti
 
 Please find the screenshot of the dashboard attached
 <br/>
-![Screenshot](/images/Screenshot (117).png)
 ![](images/1.png)
-![](pictures/2.png)
-![](pictures/3.png)
-![](pictures/project_4.png)
-![](pictures/project_5.png)
+![](images/2.png)
+![](images/3.png)
+![](images/4.png)
+![](images/5.png)
